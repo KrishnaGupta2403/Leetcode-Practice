@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -38,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
