@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
+## Sliding Window
+|  |
+| ------- |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
