@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -84,14 +87,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
