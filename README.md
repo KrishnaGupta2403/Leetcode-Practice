@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0148-sort-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Merge Sort
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
