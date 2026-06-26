@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
