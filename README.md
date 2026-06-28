@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0739-daily-temperatures](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
