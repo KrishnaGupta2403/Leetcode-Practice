@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -134,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Greedy
 |  |
