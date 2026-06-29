@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 ## Stack
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0463-island-perimeter](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0739-daily-temperatures](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
