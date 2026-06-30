@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
