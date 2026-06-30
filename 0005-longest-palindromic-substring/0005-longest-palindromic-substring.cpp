@@ -2,14 +2,14 @@ class Solution {
 public:
 bool ispalindrome(int i,int j, string &s, vector<vector<int>> &dp){
    if(i>=j)
-   return true;
+   return dp[i][j]=true;
 
     if(dp[i][j]!=-1)
     return dp[i][j];
    if(s[i]==s[j])
      return dp[i][j]= ispalindrome(i+1,j-1,s,dp);
 
-    return false;
+    return dp[i][j]=false;
 
    
 }
