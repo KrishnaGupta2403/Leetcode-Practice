@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
@@ -190,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
