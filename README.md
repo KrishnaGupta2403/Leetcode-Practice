@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0079-word-search](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0212-word-search-ii) |
 | [0402-remove-k-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0402-remove-k-digits) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0079-word-search) |
 | [0226-invert-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
