@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0212-word-search-ii) |
 ## Trie
