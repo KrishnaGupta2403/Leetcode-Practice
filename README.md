@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0365-water-and-jug-problem](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0365-water-and-jug-problem) |
+| [0991-broken-calculator](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0991-broken-calculator) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0402-remove-k-digits) |
+| [0991-broken-calculator](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0991-broken-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
