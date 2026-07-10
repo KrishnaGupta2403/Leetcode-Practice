@@ -1,35 +1,29 @@
 class Solution {
 public:
-  set<vector<int>> s;
-void getcombination(vector<int> &arr, int target, int idx, vector<int> &comb, vector<vector<int>> &res) {
-  
-       if(target==0)
-       {
-        if(s.find(comb) ==s.end())
-        {
-            res.push_back({comb});
-            s.insert({comb});
+void bt(vector<int> &arr, vector<vector<int>> &ans, vector<int> &comb,set<vector<int>> &st,int idx, int target){
+    if(target==0){
+        if(st.find(comb)==st.end()){
+            ans.push_back(comb);
+            st.insert(comb);
         }
         return;
-       }
-       if(idx>=arr.size() || target<0)
-       return ;
 
-       comb.push_back(arr[idx]);
-       getcombination(arr,target-arr[idx],idx+1,comb,res);
-       getcombination(arr,target-arr[idx],idx,comb,res);
-
-       comb.pop_back();
-       getcombination(arr,target,idx+1,comb,res);
-
-
-        
     }
-   vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> res;
+    if(idx>=arr.size() || target<0)
+    return;
+
+    comb.push_back(arr[idx]);
+    bt(arr,ans,comb,st,idx+1,target-arr[idx]);
+    bt(arr,ans,comb,st,idx,target-arr[idx]);
+
+    comb.pop_back();
+    bt(arr,ans,comb,st,idx+1,target);
+}
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> ans;
         vector<int> comb;
-       getcombination(candidates, target, 0, comb,res);
-        return res;        
+        set<vector<int>> st;
+        bt(candidates,ans,comb,st,0,target);
+        return ans;
     }
-   
 };
