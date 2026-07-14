@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0212-word-search-ii) |
+| [0283-move-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0463-island-perimeter) |
 | [0739-daily-temperatures](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
