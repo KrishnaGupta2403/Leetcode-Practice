@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Matrix
