@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0365-water-and-jug-problem](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0365-water-and-jug-problem) |
 | [0991-broken-calculator](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0991-broken-calculator) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
