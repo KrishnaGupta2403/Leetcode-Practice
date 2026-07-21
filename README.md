@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
