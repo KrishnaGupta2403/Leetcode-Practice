@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0991-broken-calculator) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -335,4 +337,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
