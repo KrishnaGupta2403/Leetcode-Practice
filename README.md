@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0365-water-and-jug-problem](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0365-water-and-jug-problem) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0991-broken-calculator](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0991-broken-calculator) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0463-island-perimeter) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
