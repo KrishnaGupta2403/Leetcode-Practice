@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0991-broken-calculator) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0991-broken-calculator](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0991-broken-calculator) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0212-word-search-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
 | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
