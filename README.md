@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1871-jump-game-vii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
