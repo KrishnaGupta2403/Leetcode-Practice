@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2336-smallest-number-in-infinite-set](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2336-smallest-number-in-infinite-set) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1845-seat-reservation-manager](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2336-smallest-number-in-infinite-set) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -382,4 +384,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1603-design-parking-system) |
 | [1845-seat-reservation-manager](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1845-seat-reservation-manager) |
 | [2241-design-an-atm-machine](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2241-design-an-atm-machine) |
+| [2336-smallest-number-in-infinite-set](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
