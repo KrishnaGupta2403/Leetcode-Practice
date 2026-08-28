@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3829-design-ride-sharing-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3829-design-ride-sharing-system) |
 ## Counting
 |  |
 | ------- |
@@ -385,8 +386,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1845-seat-reservation-manager) |
 | [2241-design-an-atm-machine](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2241-design-an-atm-machine) |
 | [2336-smallest-number-in-infinite-set](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2336-smallest-number-in-infinite-set) |
+| [3829-design-ride-sharing-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3829-design-ride-sharing-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2336-smallest-number-in-infinite-set) |
+## Queue
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3829-design-ride-sharing-system) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
