@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1603-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [1603-design-parking-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1603-design-parking-system) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
