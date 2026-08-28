@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1845-seat-reservation-manager](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1845-seat-reservation-manager) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -377,4 +378,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1603-design-parking-system) |
+| [1845-seat-reservation-manager](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1845-seat-reservation-manager) |
 <!---LeetCode Topics End-->
