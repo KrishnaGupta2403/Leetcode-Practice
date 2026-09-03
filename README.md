@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0322-coin-change) |
+| [0583-delete-operation-for-two-strings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [1871-jump-game-vii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1871-jump-game-vii) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3829-design-ride-sharing-system) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
