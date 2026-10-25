@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [1254-number-of-closed-islands](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1254-number-of-closed-islands](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Memoization
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGupta2403/Leetcode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
